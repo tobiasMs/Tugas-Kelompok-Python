@@ -1,4 +1,4 @@
-# Tugas-Kelompok-Python
+# Tugas-Kelompok Matplotlib-Python
 Pengenalan dasar jenis data pada python
 
 
