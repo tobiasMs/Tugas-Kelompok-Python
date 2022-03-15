@@ -1,7 +1,7 @@
 # Tugas-Kelompok-Python
-Pengenalan dasar dasar jenis data pada python
+Pengenalan dasar jenis data pada python
 
-Use Case
+
 ## Use Case Summary
 #### **Objective Statement :**
   1. Memperoleh pengetahuan mengenai tipe-tipe data dan penggunaannya pada bahasa pemrograman Python
