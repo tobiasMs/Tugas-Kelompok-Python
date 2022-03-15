@@ -3,14 +3,14 @@ Pengenalan dasar dasar jenis data pada python
 
 Use Case
 #Use Case Summary
-##**Objective Statement :
+**Objective Statement :
   1. Memperoleh pengetahuan mengenai tipe-tipe data dan penggunaannya pada bahasa pemrograman Python
   2. Mendapatkan pengetahuan dasar untuk membuat variabel, mencetak variabe atau objek pada layar, dan cara mengetahui tipe data yang digunakan.
   3. Memperoleh contoh penulisan syntax masing-masing tipe data pada Python
   4. Memperoleh pengetahuan mengenai perbedaan masing-masing tipe data pada Python
   5. Mendapatkan pengetahuan dasar mengenai operasi pada beberapa tipe data pada Python
 
-##**Tantangan :
+**Tantangan :
   1. Kesalahan penulisan syntax 
   2. Perbedaan penggunaan masing-masing tipe data
 
